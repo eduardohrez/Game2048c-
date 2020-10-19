@@ -1,1 +1,2 @@
-# Game2048c-
+# Game2048
+Ejeuctar main para iniciar juego 
